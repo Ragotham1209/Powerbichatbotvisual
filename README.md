@@ -1,2 +1,2 @@
 # Powerbichatbotvisual
-This is for powerbi chatbot custom visual
+Custom Visual with Chat, Regression & NL-to-Visual via ONNX
